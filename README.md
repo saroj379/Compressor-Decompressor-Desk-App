@@ -8,9 +8,10 @@ This is a Desk-app  to <strong><i>Compress</i></strong> to acquire less memory s
 
 ## Features
 
-- Light/dark/moonLight mode toggle
-- Fullscreen mode (Disabled)
-- Cross platform
+- Compressed files to reduce memory
+- Decompress as well to get the Original file
+- Fullscreen mode
+- Cross-platform
 
 ## Steps Followed to Desk-TextEditor
 
