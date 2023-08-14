@@ -28,11 +28,11 @@ This is a Desk-app  to <strong><i>Compress</i></strong> to acquire less memory s
 
 
 ![Open File chooser](https://github.com/saroj379/Compressor-Decompressor-Desk-App/blob/main/ScreemShot/Screenshot%202023-08-14%20173740.png)
-<p>Compressed file will show as like this zip format with taking less space (memory).</p>
+<p>Successful Dialog message when able to compress a file successfully.</p>
 
 
 ![Compressed file](https://github.com/saroj379/Compressor-Decompressor-Desk-App/blob/main/ScreemShot/Screenshot%202023-08-14%20173840.png)
-<p>As per requirement we want the original file of the compressed one. So we have to click the decompressed option to decompress button then it will open a File-Chooser .</p>
+<p>As per requirement we want the original file of the compressed one. So we have to click the decompressed option to decompress button then it will open a File-Chooser . Compressed files will show in this zip format, taking less space (memory).</p>
 
 
 ![Select file to Deompress](https://github.com/saroj379/Compressor-Decompressor-Desk-App/blob/main/ScreemShot/Screenshot%202023-08-14%20173911.png)
