@@ -18,7 +18,9 @@ This is a Desk-app  to <strong><i>Compress</i></strong> to acquire less memory s
  - [Set-up JDK (Latest Version)](https://www.oracle.com/java/technologies/downloads/)
 
 ## ScreenShots of Compression-Decompression
+
 <h6>1</h6>
+
 ![Main Menu with 2 clickable buttons](https://github.com/saroj379/Compressor-Decompressor-Desk-App/blob/main/ScreemShot/Screenshot%202023-08-14%20173641.png)
 <p>Two-Clickable buttons to Compress or Decompress the required file.</p><hr>
 
