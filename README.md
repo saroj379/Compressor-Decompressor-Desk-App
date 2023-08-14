@@ -5,3 +5,14 @@ This is a Desk-app  to <strong><i>Compress</i></strong> to acquire less memory s
 ## Tech Stack
 
 **Client:** JSwing Components (JFrame, JButtons, ActionListeners)
+
+## Features
+
+- Light/dark/moonLight mode toggle
+- Fullscreen mode (Disabled)
+- Cross platform
+
+## Steps Followed to Desk-TextEditor
+
+ - [Download NetBeans](https://netbeans.apache.org/download/index.html)
+ - [Set-up JDK (Latest Version)](https://www.oracle.com/java/technologies/downloads/)
