@@ -41,3 +41,8 @@ This is a Desk-app  to <strong><i>Compress</i></strong> to acquire less memory s
 
 ![Decompressed file](https://github.com/saroj379/Compressor-Decompressor-Desk-App/blob/main/ScreemShot/Screenshot%202023-08-14%20174053.png)
 <p>It will show the original form of the file after decompression.</p> <hr>
+
+![Exit](https://github.com/saroj379/Compressor-Decompressor-Desk-App/blob/main/ScreemShot/Screenshot%202023-08-14%20181658.png)
+<p>While clicking to exit it will ask "Are you really want to exit?"</p><br>
+<p>If the user will click yes then it will close the window otherwise it will stay the same for further Processes.</p>
+<hr>
