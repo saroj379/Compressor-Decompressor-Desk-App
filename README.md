@@ -13,7 +13,7 @@ This is a Desk-app  to <strong><i>Compress</i></strong> to acquire less memory s
 - Fullscreen mode
 - Cross-platform
 
-## Steps Followed to Desk-TextEditor
+## Set-up for this Project
 
  - [Download NetBeans](https://netbeans.apache.org/download/index.html)
  - [Set-up JDK (Latest Version)](https://www.oracle.com/java/technologies/downloads/)
